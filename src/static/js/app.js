@@ -4,7 +4,6 @@ function App() {
         <Container>
            <Row>
                 <Col>
-        
                     <h1　 style="color:green"　align="center"> ToDo App by eno-mush </h1>
                 </Col>
             </Row>

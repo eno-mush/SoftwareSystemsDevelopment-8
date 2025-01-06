@@ -4,7 +4,7 @@ function App() {
         <Container>
            <Row>
                 <Col>
-        <p className="text-center">No items yet! Add one above!　changed here</p>
+        
                     <h1> ToDo App by eno-mush </h1>
                 </Col>
             </Row>

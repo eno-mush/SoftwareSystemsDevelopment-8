@@ -2,9 +2,9 @@ function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
-            <Row>
+           <Row>
                 <Col>
-                    <h1>ToDo App by Sachiko Enomoto</h1>
+                    <h1>ToDo App by eno-mush</h1>
                 </Col>
             </Row>
             <Row>

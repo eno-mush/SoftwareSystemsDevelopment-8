@@ -4,7 +4,7 @@ function App() {
         <Container>
            <Row>
                 <Col>
-                    <h1> "ToDo App by eno-mush" </h1>
+                    <h1> ToDo App by eno-mush </h1>
                 </Col>
             </Row>
             <Row>

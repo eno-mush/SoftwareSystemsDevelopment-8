@@ -2,13 +2,13 @@ function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
-           // <Row>
-           //      <Col>
-           //          <h1 style={{ color: 'green', textAlign: 'center' }}>
-           //              ToDo App by eno-mush
-           //          </h1>
-           //      </Col>
-           //  </Row>
+           <Row>
+                <Col>
+                    <h1 style={{ color: 'green', textAlign: 'center' }}>
+                        ToDo App by eno-mush
+                    </h1>
+                </Col>
+            </Row>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
                     <TodoListCard />

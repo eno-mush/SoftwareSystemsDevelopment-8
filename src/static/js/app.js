@@ -5,7 +5,7 @@ function App() {
            <Row>
                 <Col>
                     <h1 style={{ color: 'green', textAlign: 'center' }}>
-                        ToDo App by eno-mush
+                        ToDo App by eno-mush　
                     </h1>
                 </Col>
             </Row>

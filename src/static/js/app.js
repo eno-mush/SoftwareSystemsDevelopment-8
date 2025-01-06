@@ -5,7 +5,7 @@ function App() {
            <Row>
                 <Col>
         
-                    <h1　 style="color:green"> ToDo App by eno-mush </h1>
+                    <h1　 style="color:green"　align="center"> ToDo App by eno-mush </h1>
                 </Col>
             </Row>
             <Row>
